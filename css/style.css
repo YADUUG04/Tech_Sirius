@@ -1555,7 +1555,7 @@ section {
 }
 
 
-.team .containerT {
+.team .container {
   position: relative;
   z-index: 2; /* Ensures content appears above the background image */
   background-color: rgba(255, 255, 255, 0.8); /* Optional: Adds a semi-transparent background to make text more readable */
